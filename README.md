@@ -82,7 +82,7 @@
 	<a href="mailto:sfsafayet35@gmail.com">
 		<img
 			alt="Email"
-			src="https://img.shields.io/badge/Email-sfsafayet35@gmail.com-blue?style=flat-square&logo=gmail"
+			src="https://img.shields.io/badge/Email-sf.safayet35@gmail.com-blue?style=flat-square&logo=gmail"
 		/>
 	</a>
 </p>
@@ -90,9 +90,7 @@
 <p align="center">
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=safayet35)
- 
-
-<img
+ <img
 		src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif"
 		width="30"
 	/>
