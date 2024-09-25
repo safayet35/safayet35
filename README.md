@@ -76,7 +76,7 @@
 	<a href="https://www.instagram.com/ig.safu/">
 		<img
 			alt="Instagram"
-			src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"
+			src="https://img.shields.io/badge/Instagram-Safayet-black?style=flat-square&logo=instagram"
 		/>
 	</a>
 	<a href="mailto:sfsafayet35@gmail.com">
