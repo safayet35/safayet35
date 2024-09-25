@@ -49,7 +49,10 @@
 		width="350"
 		align="right"
 	/>
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safayet35&show_icons=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safayet35&show_icons=true)
+ 
 </p>
 
 <hr />
@@ -85,7 +88,9 @@
 </p>
 
 <p align="center">
-	![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=safayet35)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=safayet35)
+ 
 	<img
 		src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif"
 		width="30"
