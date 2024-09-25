@@ -35,7 +35,7 @@
 
 <p align="center">
 	[![Safayet's GitHub
-	Stats](https://github-readme-stats.vercel.app/api?username=safayet35&show_icons=true)](https://github.com/sfsafayet36)
+	Stats](https://github-readme-stats.vercel.app/api?username=safayet35&show_icons=true)](https://github.com/safayet35)
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@
 
 <p align="center">
 	![Visitor
-	Count](https://visitor-badge.laobi.icu/badge?page_id=sfsafayet36.safayet35)
+	Count](https://visitor-badge.laobi.icu/badge?page_id=safayet35)
 	<img
 		src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif"
 		width="30"
