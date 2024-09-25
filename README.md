@@ -76,7 +76,7 @@
 	<a href="https://www.instagram.com/ig.safu/">
 		<img
 			alt="Instagram"
-			src="https://img.shields.io/badge/Instagram-Safayet-black?style=flat-square&logo=instagram"
+			src="https://img.shields.io/badge/Instagram-Safayet_Rahman-black?style=flat-square&logo=instagram"
 		/>
 	</a>
 	<a href="mailto:sfsafayet35@gmail.com">
@@ -91,8 +91,10 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=safayet35)
  
-	<img
+
+<img
 		src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif"
 		width="30"
 	/>
+ 
 </p>
