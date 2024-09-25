@@ -82,7 +82,7 @@
 
 <p align="center">
 	![Visitor
-	Count](https://visitor-badge.laobi.icu/badge?page_id=sfsafayet36.sfsafayet36)
+	Count](https://visitor-badge.laobi.icu/badge?page_id=sfsafayet36.safayet35)
 	<img
 		src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif"
 		width="30"
