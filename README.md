@@ -22,13 +22,13 @@
 <ul>
 	<li>💻 &nbsp; JavaScript</li>
 	<li>
-		🌐 &nbsp; HTML | CSS | JavaScript | Tailwind | ReactJS | Gsap | Locomotive
+		🌐 &nbsp; HTML | CSS | JavaScript | Tailwind | ReactJS | Nodejs | MongoDB | ExpressJS
 	</li>
 </ul>
 
 <h3>🛠 To Learn</h3>
 <ul>
-	<li>🔧 &nbsp; MongoDB | ExpressJS | NodeJS | NextJS</li>
+	<li>🔧 &nbsp; NextJS</li>
 </ul>
 
 <hr />
